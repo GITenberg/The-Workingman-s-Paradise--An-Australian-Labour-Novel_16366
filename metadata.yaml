@@ -1,0 +1,29 @@
+_repo: The-Workingman-s-Paradise--An-Australian-Labour-Novel_16366
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, John
+    alias: Lane, William
+    birthdate: 1861
+    deathdate: 1917
+    gutenberg_agent_id: '38821'
+    url: http://www.gutenberg.org/2009/agents/38821
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Working class -- Fiction'
+title: 'The Workingman''s Paradise: An Australian Labour Novel'
+url: http://www.gutenberg.org/ebooks/16366
