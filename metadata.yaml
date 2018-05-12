@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38821'
     url: http://www.gutenberg.org/2009/agents/38821
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16366#The-Workingman-s-Paradise--An-Australian-Labour-Novel
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2005-07-27'
 gutenberg_type: Text
